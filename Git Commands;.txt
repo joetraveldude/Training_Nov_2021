@@ -1,0 +1,11 @@
+Git Commands;
+Git add -A;
+Git commit -m "Add Owner Name & Division tags to Require a tag on resources policy";
+Git push origin joelsmit/policy-organization;
+
+Git add -A C:\Dev Repository\ACF Main v1\ACF\Landing Zones\Policy\Baseline\Tags\Require a tag on resources;
+Git commit -m "Add Owner Name & Division tags to Require a tag on resources policy";
+Git push origin joelsmit/policy-organization;
+
+Landing Zones\Policy\Baseline\Tags\Require a tag on resources
+C:\Dev Repository\ACF Main v1\ACF\Landing Zones\Policy\Baseline\Tags\Require a tag on resources
